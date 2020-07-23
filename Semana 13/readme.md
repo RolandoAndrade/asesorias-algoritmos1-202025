@@ -1,6 +1,6 @@
 Dado un archivo con varios números en cada línea, sumarlos e incluirlos en un archivo de salida de la siguiente manera.
 
-´´´
+
 	entrada.txt
 
 	1 2 3 4
@@ -11,10 +11,10 @@ Dado un archivo con varios números en cada línea, sumarlos e incluirlos en un 
 	1 1
 	3
 	3 3 3
-´´´
+
+---
 
 
-´´´
 	salida.txt
 	
 	1+2+3+4=10
@@ -25,4 +25,3 @@ Dado un archivo con varios números en cada línea, sumarlos e incluirlos en un 
 	1+1=2
 	3=3
 	3+3+3=9
-´´´
